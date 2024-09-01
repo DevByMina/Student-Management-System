@@ -21,3 +21,4 @@ C project designed to manage student information effeciently
 
 # Video
 This is a link to a short video demonstrating the system on action
+https://drive.google.com/file/d/1Znd8CnlLZidnqri--Wj5PHtHcfCSwSQb/view?usp=sharing
