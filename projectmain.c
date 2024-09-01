@@ -4,13 +4,13 @@
  * Author: Mina Sameh Tawfik
  * Group: 88
  * Date: 13/8/2024
- *
+ * Part of the Embedded System Diploma
  */
 
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-#include "projectFunction.h"
+#include "projectFunctions.h"
 
 int main(void){
 	setvbuf(stdout, NULL, _IONBF, 0);
