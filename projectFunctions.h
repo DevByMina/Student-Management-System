@@ -4,7 +4,7 @@
  * Author: Mina Sameh Tawfik
  * Group: 88
  * Date: 13/8/2024
- * Part if the Embedded System Diploma 
+ * Part of the Embedded System Diploma 
  */
 
 #ifndef PROJECTFUNCTIONS_H_
